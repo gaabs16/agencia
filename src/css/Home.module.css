@@ -1,0 +1,25 @@
+.container{
+    width: 90%;
+    margin: auto;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: tahoma;
+}
+
+.imagem{
+    width: 80%;
+}
+
+.texto{
+    width: 50%;
+    font-size: 30px;
+    color: #003b67;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
